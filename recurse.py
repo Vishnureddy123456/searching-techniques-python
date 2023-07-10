@@ -1,3 +1,4 @@
+#special numbers
 def fact(a):
     if a==0:
         return 1
@@ -13,6 +14,10 @@ if b==num:
     print('spe')
 else:
     print('not spe')
+
+
+
+#adding two lists
 a=[1,9,6,8,3,5,2]
 a.sort()
 e=[]
